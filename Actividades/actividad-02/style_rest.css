@@ -1,0 +1,25 @@
+.restaurantes{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color: yellow;
+    text-align: center;
+}
+
+body{
+    background-color:rgb(52, 180, 180);
+}
+
+.contenedor{
+    text-align: center;
+}
+
+.img{
+
+    border: solid 8px;
+    border-color: white;
+    margin: 2px;
+
+}
+
